@@ -3,7 +3,7 @@ from random import choice
 
 PAREDE = '#'
 CAMINHO_LIVRE = ' '
-CAMINHO_PERCORRIDO = "."
+CAMINHO_PERCORRIDO = "x"
 ROBO = "4"
 SAIDA = "S"
 PILHA = []
